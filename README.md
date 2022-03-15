@@ -1,4 +1,1 @@
-# liqvid
-Interactive videos for the web
-
-This repository has been merged with the main one and is no longer maintained
+This repository has been merged into https://github.com/liqvidjs/liqvid and is no longer used
